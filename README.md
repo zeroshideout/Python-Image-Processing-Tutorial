@@ -5,3 +5,8 @@
 #In this specific tutorial, I'm going to be guiding on how to process an NC file from Python and display a visual representation of a radargram. 
 
 #By going through this tutorial, you'll learn different packages, what they're made for, and how it all works together to get the results expected. 
+
+#Table of Contents:
+
+#Python - 
+#What is an NC File?
