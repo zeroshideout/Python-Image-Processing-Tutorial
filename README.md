@@ -8,5 +8,7 @@
 
 #Table of Contents:
 
-#Python - 
+#Python 
 #What is an NC File?
+#Packages / Libraries
+#The Process 
